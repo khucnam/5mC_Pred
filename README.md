@@ -1,14 +1,23 @@
-This is the public site for the paper under submission named: "An extensive examination of discovering 5-Methylcytosine Sites in Genome-Wide DNA Promoters using machine learning based approaches"
+This is the public site for the paper under submission named: "An extensive examination of discovering 5-Methylcytosine Sites in Genome-Wide DNA Promoters using machine learning based approaches" which has been accepted for presentation
+at the 19th Asia Pacific Bioinformatics Conference as a research article.
+
 In this repo, we provide users with a standalone application for predicting 5mC sites in DNA Genome-wide promoters. 
+
 In order to use our tool, first, please pay attention to the library requirements specified below:
+	
 	* LIBRARY REQUIREMENTS
 		We will need to install some basic packages to run the programs as followed:
-			git version 2.15.1.windows.2
-			python 3.6.5
-			numpy 1.14.3
-			pandas 0.23.0
-			sklearn 0.20.2
-Then, in order to use the prediction tool, please:
+			+ git version 2.15.1.windows.2
+			
+			+ python 3.6.5
+			
+			+ numpy 1.14.3
+			
+			+ pandas 0.23.0
+			
+			+ sklearn 0.20.2
+			
+Then, in order to execute the prediction, please:
 
 	1. Download the application by going to https://pypi.org/project/yang-5mc_pred/, and click in "Download files" in the Navigation menu
 
